@@ -1,0 +1,13 @@
+.result-quiz-page {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.result-quiz-page-score {
+  padding: 4px 8px;
+  background-color: red;
+  color: black;
+  width: 350px;
+}

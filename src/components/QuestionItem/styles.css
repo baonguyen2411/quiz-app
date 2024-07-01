@@ -1,0 +1,10 @@
+.active-draft-answer,
+.active-correct-answer {
+  background-color: green;
+  color: white;
+}
+
+.active-incorrect-answwer {
+  background-color: red;
+  color: white;
+}
